@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ectockna.github.io/sitemap.ectockna.gz
+Sitemap: https://ectockna.github.io/app/sitemap.ectockna.gz
+Sitemap: https://ectockna.github.io/assets/sitemap.ectockna.gz
+Sitemap: https://ectockna.github.io/css/sitemap.ectockna.gz
+Sitemap: https://ectockna.github.io/data/sitemap.ectockna.gz
+Sitemap: https://ectockna.github.io/includes/sitemap.ectockna.gz
+Sitemap: https://ectockna.github.io/item/sitemap.ectockna.gz
+Sitemap: https://ectockna.github.io/src/sitemap.ectockna.gz
